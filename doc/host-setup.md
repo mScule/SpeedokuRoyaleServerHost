@@ -47,10 +47,6 @@ Props for parts 3 - 9 goes to [SysAdminXpert](https://sysadminxpert.com/how-to-i
    `sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo`
    `sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin`
 
-After all this you should be done!
-
-[Back to README](../README.md)
-
 ## Part 4 - SSH key
 
 1. Create ssh key with ssh-keygen and add the .pub key to github.'
@@ -60,3 +56,7 @@ After all this you should be done!
 
 1. Run the install.sh and follow the instructions from the
    SpeedokuRoyaleServerPE
+
+After all this you should be done!
+
+[Back to README](../README.md)
