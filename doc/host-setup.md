@@ -1,4 +1,4 @@
-# SpeedokuRoyaleServer - Production Environemnt | Host setup
+# SpeedokuRoyaleServerHost | Setup
 
 By following this guide you should be able to setup the host for the Speedoku
 Royale server.
